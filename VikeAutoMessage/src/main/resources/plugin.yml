@@ -1,0 +1,8 @@
+name: VikeAutoMessage
+version: '${project.version}'
+main: org.vikestudio.vikeautomessage.VikeAutoMessage
+api-version: '1.16'
+load: STARTUP
+authors: [username_favorite]
+description: For VikeStudio
+website: https://t.me/vikestudio
